@@ -4,8 +4,7 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
     vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
     string name = "Tachera Sasi";
     for (const string& word : msg)
